@@ -1,0 +1,20 @@
+.card {
+    margin: 1em;
+}
+.center-screen-spinner {
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    padding-top: 1em;
+}
+
+.text-left {
+    text-align: left !important;
+}
+.text-right{
+    text-align: right;
+}
